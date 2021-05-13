@@ -3,7 +3,7 @@ This repo contain all my Deep Learning work completed by me for academic, self l
 Out of many framework avaliable for Deep Learning I have build my specialization working on the following framworks.
 
 ## PyTorch
-  - [Wheat Seed Dataset](): The datasets involves the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achievied accruacy of 78% under 15 epcohs.
+  - [Wheat Seed Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Wheat_Seeds_Analysis_Pytorch_blogs.ipynb): The datasets involves the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achievied accruacy of 78% under 15 epcohs.
   - [Insurance Cost Predicition](): I am going to use information like a person's age, sex, BMI, no. of children and smoking habit to predict the price of yearly medical bills.The dataset for this problem is taken from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance). 
 
 
