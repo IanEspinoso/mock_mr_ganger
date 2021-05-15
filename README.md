@@ -4,7 +4,7 @@ Out of many framework avaliable for Deep Learning I have build my specialization
 
 ## PyTorch
   - [Wheat Seed Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Wheat_Seeds_Analysis_Pytorch_blogs.ipynb): The datasets involves the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achievied accruacy of 78% under 15 epcohs.
-  - [CFAR-10](): The dataset contains over 60,000 images. I have build the model to predict the class of oject out of 10 classes using Feed forward neural network.
+  - [CFAR-10](https://github.com/hargurjeet/DeepLearning/blob/main/CFAR_10_Dataset.ipynb): The dataset contains over 60,000 images. I have build the model to predict the class of oject out of 10 classes using Feed forward neural network.
 
 
 ## Tensorflow
