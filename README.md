@@ -4,7 +4,7 @@ Out of many framework avaliable for Deep Learning I have build my specialization
 
 ## PyTorch
   - [Wheat Seed Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Wheat_Seeds_Analysis_Pytorch_blogs.ipynb): The datasets involves the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achievied accruacy of 78% under 15 epcohs.
-  - [Insurance Cost Predicition](): I am going to use information like a person's age, sex, BMI, no. of children and smoking habit to predict the price of yearly medical bills.The dataset for this problem is taken from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance). 
+  - [CFAR-10](): The dataset contains over 60,000 images. I have build the model to predict the class of oject out of 10 classes using Feed forward neural network.
 
 
 ## Tensorflow
