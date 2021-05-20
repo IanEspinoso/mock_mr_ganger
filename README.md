@@ -8,7 +8,7 @@ Out of many framework avaliable for Deep Learning I have build my specialization
 
 
 ## Tensorflow
-  - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over 39k images. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**
+  - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over 39k images and over 40 classes. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**
 
 
 I also dabble in all other technology. You can access by complete portfolio [here](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md)
