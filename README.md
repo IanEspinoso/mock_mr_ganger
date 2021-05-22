@@ -10,7 +10,7 @@ Out of many framework avaliable for Deep Learning I have build my specialization
     - Applied technique like Data normalization, Data augmentation, Batch normalization, Learning rate scheduling, Weight Decay, Gradient clipping...etc to further improve the model **accuracy to 90 %**.
 
 ## Tensorflow
-  - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over **39k images** and over **40 classes**. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**.
+  - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over **39k images** and over **40 classes**. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**. [Click here](https://gurjeet333.medium.com/cnn-german-traffic-signal-recognition-benchmarking-using-tensorflow-accuracy-80-d069b7996082) to access my blog.
 
 
 I also dabble in all other technology. You can access by complete portfolio [here](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md)
