@@ -32,7 +32,7 @@ I like writing and love to explain my work in layman's language. Through these b
 In progress
 
 
-## Production Implmentation
+## Production Deployments
 
 In progress
 
