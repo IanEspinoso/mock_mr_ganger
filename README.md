@@ -25,6 +25,16 @@ I like writing and love to explain my work in layman's language. Through these b
   - [Deep Learning for Beginners Using TensorFlow](https://gurjeet333.medium.com/cnn-german-traffic-signal-recognition-benchmarking-using-tensorflow-accuracy-80-d069b7996082)
 
 
+## Transfer Learning
+
+In progress
+
+
+## Production Implmentation
+
+In progress
+
+
 I also dabble in all other technology. You can access by complete portfolio [here](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md)
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at gurjeet333@gmail.com
