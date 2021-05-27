@@ -10,7 +10,7 @@ Out of many framework avaliable for Deep Learning I have build my specialization
     - Applied technique like Data normalization, Data augmentation, Batch normalization, Learning rate scheduling, Weight Decay, Gradient clipping...etc to further improve the model **accuracy to 90%**. You can access my notebook [here](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Image_Classifier.ipynb)
 
 
-### Blogs
+### Blogs on PyTorch
 I like writing and love to explain my work in layman's language. Through these blogs, I reach out to the general audiences who are not familiar with these technologies and want to learn in this area
   - [7 Best Techniques To Improve The Accuracy of CNN W/O Overfitting](https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f)
   - [Training Convolutional Neural Network(ConvNet/CNN) on GPU From Scratch](https://medium.com/mlearning-ai/training-convolutional-neural-network-convnet-cnn-on-gpu-from-scratch-439e9fdc13a5)
