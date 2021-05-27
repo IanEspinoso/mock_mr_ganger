@@ -27,7 +27,7 @@ I like writing and love to explain my work in layman's language. Through these b
   - [Deep Learning for Beginners Using TensorFlow](https://gurjeet333.medium.com/cnn-german-traffic-signal-recognition-benchmarking-using-tensorflow-accuracy-80-d069b7996082)
 
 
-## Transfer Learning
+## NLP Projects
 
 In progress
 
