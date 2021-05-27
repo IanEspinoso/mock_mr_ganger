@@ -8,6 +8,7 @@ Out of many framework avaliable for Deep Learning I have build my specialization
     - Built [Feed Forward neural network(ANN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Dataset.ipynb) and achievied an accurcy of **48%**.
     - Built [Convolutional Neural Network(CNN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CNN_CFAR_10_Dataset.ipynb) and improved the accuracy till **75%**.
     - Applied technique like Data normalization, Data augmentation, Batch normalization, Learning rate scheduling, Weight Decay, Gradient clipping...etc to further improve the model **accuracy to 90%**. You can access my notebook [here](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Image_Classifier.ipynb)
+    - [Fruit 360 Classifier](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fruit_360_Classification.ipynb): The problem involves predicting the fruit class from a set of 131 classes with training data of over 65k images. I build a neural network to achieve the highest possible accuracy(i.e. **98%) under 5 epochs** in less than **4 mins**.  
 
 
 ### Blogs on PyTorch
@@ -16,6 +17,7 @@ I like writing and love to explain my work in layman's language. Through these b
   - [Training Convolutional Neural Network(ConvNet/CNN) on GPU From Scratch](https://medium.com/mlearning-ai/training-convolutional-neural-network-convnet-cnn-on-gpu-from-scratch-439e9fdc13a5)
   - [Training Feed Forward Neural Network(FFNN) on GPU — Beginners Guide](https://medium.com/mlearning-ai/training-feed-forward-neural-network-ffnn-on-gpu-beginners-guide-2d04254deca9)
   - [Logistic Regression With PyTorch — A Beginner Guide](https://medium.com/analytics-vidhya/logistic-regression-with-pytorch-a-beginner-guide-33c2266ad129)
+  - [PyTorch - Training Fruit 360 Classifier Under 5 mins]()
 
 ## Tensorflow
   - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over **39k images** and over **40 classes**. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**.
