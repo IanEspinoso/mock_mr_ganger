@@ -8,7 +8,7 @@ Out of many framework avaliable for Deep Learning I have build my specialization
     - Built [Feed Forward neural network(ANN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Dataset.ipynb) and achievied an accurcy of **48%**.
     - Built [Convolutional Neural Network(CNN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CNN_CFAR_10_Dataset.ipynb) and improved the accuracy till **75%**.
     - Applied technique like Data normalization, Data augmentation, Batch normalization, Learning rate scheduling, Weight Decay, Gradient clipping...etc to further improve the model **accuracy to 90%**. You can access my notebook [here](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Image_Classifier.ipynb)
-  - [Fruit 360 Classifier](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fruit_360_Classification.ipynb): The problem involves predicting the fruit class from a set of 131 classes with training data of over 65k images. I build a neural network to achieve the highest possible accuracy(i.e. **98%) under 5 epochs** in less than **4 mins**.  
+  - [Fruit 360 Classifier](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fruit_360_Classification.ipynb): The problem involves predicting the fruit class from a set of 131 classes with training data of over 65k images. I build a CNN neural network to achieve the highest possible accuracy(i.e. **98%) under 5 epochs** in less than **4 mins**.  
 
 
 ### Blogs on PyTorch
