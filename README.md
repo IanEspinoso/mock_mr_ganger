@@ -11,24 +11,26 @@ Out of many framework avaliable for Deep Learning I have build my specialization
   - [Fruit 360 Classifier](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fruit_360_Classification.ipynb): The problem involves predicting the fruit class from a set of 131 classes with training data of over 65k images. I build a CNN neural network to achieve the highest possible accuracy(i.e. **98%) under 5 epochs** in less than **4 mins**.  
 
 
-### Blogs on PyTorch
+## Tensorflow
+  - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over **39k images** and over **40 classes**. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**.
+
+
+## NLP Projects
+  - [Twitter Disaster Tweets](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/NLP_Twitter_Disaster_Tweets.ipynb): The dataset involves processing the text to predict if a tweet signifies disaster information or not. I build the model using the **NLTK lib** for text processing and TensorFlow for building up the neural network. I have applied **regular expression, stopwords, tokenization, pad sequences** to build the model and implemented it using **TensorFlow**
+
+
+### My Deeplearning blogs
 I like writing and love to explain my work in layman's language. Through these blogs, I reach out to the general audiences who are not familiar with these technologies and want to learn in this area
   - [7 Best Techniques To Improve The Accuracy of CNN W/O Overfitting](https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f)
   - [Training Convolutional Neural Network(ConvNet/CNN) on GPU From Scratch](https://medium.com/mlearning-ai/training-convolutional-neural-network-convnet-cnn-on-gpu-from-scratch-439e9fdc13a5)
   - [Training Feed Forward Neural Network(FFNN) on GPU — Beginners Guide](https://medium.com/mlearning-ai/training-feed-forward-neural-network-ffnn-on-gpu-beginners-guide-2d04254deca9)
   - [Logistic Regression With PyTorch — A Beginner Guide](https://medium.com/analytics-vidhya/logistic-regression-with-pytorch-a-beginner-guide-33c2266ad129)
   - [PyTorch - Training Fruit 360 Classifier Under 5 mins]()
-
-## Tensorflow
-  - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over **39k images** and over **40 classes**. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**.
-
-
-### Blogs on Tensorflow
   - [Deep Learning for Beginners Using TensorFlow](https://gurjeet333.medium.com/cnn-german-traffic-signal-recognition-benchmarking-using-tensorflow-accuracy-80-d069b7996082)
+  - [Fake or Not ? Twitter Disaster Tweets](https://gurjeet333.medium.com/fake-or-not-twitter-disaster-tweets-f1a6b2311be9)
 
 
-## NLP Projects
-  - [Twitter Disaster Tweets](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/NLP_Twitter_Disaster_Tweets.ipynb): The dataset involves processing the text to predict if a tweet signifies disaster information or not. I build the model using the **NLTK lib** for text processing and TensorFlow for building up the neural network. I have applied **regular expression, stopwords, tokenization, pad sequences** to build the model and implemented it using **TensorFlow**
+
 
 
 ## Production Deployments
