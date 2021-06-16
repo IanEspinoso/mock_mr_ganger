@@ -37,7 +37,7 @@ I like writing and love to explain my work in layman's language. Through these b
 
 ## Production Deployments
 
-In progress
+In progress will update soon
 
 
 I also dabble in all other technology. You can access by complete portfolio [here](https://github.com/hargurjeet/Portfolio-Projects/blob/main/README.md)
