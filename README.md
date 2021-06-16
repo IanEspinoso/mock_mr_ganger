@@ -16,7 +16,8 @@ Out of many framework avaliable for Deep Learning I have build my specialization
 
 
 ## NLP Projects
-  - [Twitter Disaster Tweets](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/NLP_Twitter_Disaster_Tweets.ipynb): The dataset involves processing the text to predict if a tweet signifies disaster information or not. I build the model using the **NLTK lib** for text processing and TensorFlow for building up the neural network. I have applied **regular expression, stopwords, tokenization, pad sequences** to build the model and implemented it using **TensorFlow**
+  - [Twitter Disaster Tweets](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/NLP_Twitter_Disaster_Tweets.ipynb): The dataset involves processing the text to predict if a tweet signifies disaster information or not. I build the model using the **NLTK lib** for text processing and TensorFlow for building up the neural network. I have applied **regular expression, stopwords, tokenization, pad sequences** to build the model and implemented it using **TensorFlow**.
+  - [NLP — Detecting Fake News On Social Media](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fake_News_Classifer.ipynb): The program help in identifying news articles programmatically if a news article is Fake or Not. I have tried comparing the techniques - **Bag of words** and **TF IDF** while approching to solve the problem and compared their accuracies.
 
 
 ### My Deeplearning blogs
