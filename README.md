@@ -15,6 +15,8 @@ Out of many framework avaliable for Deep Learning I have build my specialization
 
 ## Tensorflow
   - [GTSRB Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/GTRSB%20-%20CNN%20%28TensorFlow%29.ipynb): The dataset contains over **39k images** and over **40 classes**. I have to build a neural network with CNN architecture using Tensorflow and applying techniques like image augmentation to achieve accuracy of **85%**.
+  - [Telco Customer Churn]():
+  - [CNN Model - Age, Gender, Ethnicity]():
 
 
 ## NLP Projects
